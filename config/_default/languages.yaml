@@ -11,7 +11,7 @@
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh
+  contentDir: content
   title: 上海大学超算队
   params:
     description: 上海大学超算队
