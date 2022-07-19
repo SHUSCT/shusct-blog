@@ -21,7 +21,7 @@ content:
     - Grad Students
     - Administration
     - Visitors
-    - Alumni
+    - Member
 design:
   show_interests: false
   show_role: true
